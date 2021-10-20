@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["signin"],
+  "cSpell.words": ["getlastthree", "signin"],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
